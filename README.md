@@ -17,11 +17,12 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 
 ![](https://img.shields.io/badge/Editor-Phpstorm-informational?style=flat&logo=Phpstorm&logoColor=009F6D&color=009F6D)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=F35045&color=F35045)
-![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=Codeigniter&logoColor=F35045&color=DD4814)
+![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=Codeigniter&logoColor=DD4814&color=DD4814)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=E34F26&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=0C73B8&color=0C73B8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=6383BB&color=6383BB)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=6383BB&color=6383BB)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue.js&logoColor=3FB27F&color=3FB27F)
 ![](https://img.shields.io/badge/Styling-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=563D7C&color=563D7C)
 ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=015F8B&color=015F8B)
@@ -37,6 +38,7 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 ![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=ED800F&color=ED800F)
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLite&logoColor=003B57&color=003B57)
 
+<!--
 ### :computer: Desktop
 
 ![](https://img.shields.io/badge/Editor-NetBeans-informational?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=447EBA&color=447EBA)
@@ -81,4 +83,4 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 
 <a>
   <img align="center" src="https://img.shields.io/badge/NVIDIA-MX150-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-</a>
+</a> -->
