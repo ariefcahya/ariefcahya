@@ -4,11 +4,11 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 
 ## :chart_with_upwards_trend: Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geofany&count_private=true&theme=algolia&include_all_commits=true&show_icons=true&line_height=20" />
+<a href="https://github.com/ariefcahya/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariefcahya&count_private=true&theme=algolia&include_all_commits=true&show_icons=true&line_height=20" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geofany&layout=compact&count_private=true&theme=algolia" />
+<a href="https://github.com/ariefcahya/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefcahya&layout=compact&count_private=true&theme=algolia" />
 </a>
 
 ## :construction_worker: Tech & Tools
