@@ -17,7 +17,7 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 
 ![](https://img.shields.io/badge/Editor-Phpstorm-informational?style=flat&logo=Phpstorm&logoColor=009F6D&color=009F6D)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=F35045&color=F35045)
-![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=Codeigniter&logoColor=F35045&color=F35045)
+![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=Codeigniter&logoColor=F35045&color=DD4814)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=E34F26&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=0C73B8&color=0C73B8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)
