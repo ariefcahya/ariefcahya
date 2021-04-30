@@ -4,10 +4,10 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 
 ## :chart_with_upwards_trend: Stats
 
-<a href="https://github.com/ariefcahya/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariefcahya&count_private=true&theme=algolia&include_all_commits=true&show_icons=true&line_height=20" />
 </a>
-<a href="https://github.com/ariefcahya/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefcahya&layout=compact&count_private=true&theme=algolia" />
 </a>
 
@@ -15,8 +15,9 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 
 ### :globe_with_meridians: Web
 
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=009F6D&color=009F6D)
+![](https://img.shields.io/badge/Editor-Phpstorm-informational?style=flat&logo=Phpstorm&logoColor=009F6D&color=009F6D)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=Laravel&logoColor=F35045&color=F35045)
+![](https://img.shields.io/badge/Framework-Codeigniter-informational?style=flat&logo=Codeigniter&logoColor=F35045&color=F35045)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=E34F26&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=0C73B8&color=0C73B8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=F7DF1E&color=F7DF1E)
