@@ -4,6 +4,7 @@ I am Mohammad Arief! I am working on projects related to Web and Mobile
 
 ## :chart_with_upwards_trend: Stats
 ![Visitor Badge](https://visitor-badges.glitch.me?username=ariefcahya&repo=ariefcahya&label=VISITOR&style=flat-square&color=%23457BFF&contentType=svg)
+<br>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ariefcahya&count_private=true&theme=algolia&include_all_commits=true&show_icons=true&line_height=20" />
 </a>
